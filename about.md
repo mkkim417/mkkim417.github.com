@@ -5,9 +5,5 @@ sidebar_link: true
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
+  매일 배우고 성장하는 풀 스택(이 되고 싶은) 웹 개발자 mkkim입니다.
 </p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
